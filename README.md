@@ -10,4 +10,4 @@ End-to-end MT pipeline, takes English input and outputs French translation <br>
 
 ## Step 2: Building The Models <br>
 
-### Model 1- Simple RNN <br> 
+### Model 1- Simple RNN (Using GRUs) <br> 
